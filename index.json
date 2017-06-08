@@ -3,7 +3,7 @@
   "description": "This file is an index of the sample code",
   "chapters": [
     {
-      "name": "Your first React App",
+      "name": "Voting Application",
       "examples": [
         "voting_app"
       ]
