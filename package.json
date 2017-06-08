@@ -6,7 +6,7 @@
   "scripts": {
     "install-all": "npm-recursive-install"
   },
-  "author": "Fullstack React",
+  "author": "Ghassan ASSAF",
   "devDependencies": {
     "recursive-install": "1.3.0"
   }
